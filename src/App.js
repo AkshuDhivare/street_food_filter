@@ -15,10 +15,10 @@ function App() {
         </div>
       </div>
       <div className="col-lg-12 py-2 bg-primary text-center">
-        <h4 className="text-white mt-2">
+        <h5 className="text-white mt-2">
           © {new Date().getFullYear()} Food Filter Web App, Develop by Akshay
           Dhivare.
-        </h4>
+        </h5>
       </div>
     </>
   );

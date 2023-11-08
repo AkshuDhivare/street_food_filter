@@ -11,7 +11,7 @@ function FoodItemDetails({ item, setShowdetaildata }) {
       <div className="container py-5">
         <div className="row ">
           <div className="col-lg-6 py-5">
-            <img src={image} alt={image} className="img-fluid" />
+            <img src={image} alt={image} className="img-fluid w-75" />
           </div>
           <div className="col-lg-6 py-5 text-start">
             <h2 className="py-2">Name : {name}</h2>

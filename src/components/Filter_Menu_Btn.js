@@ -6,7 +6,7 @@ function Filter_Menu_Btn({ filter_data, filter_menu_data }) {
       {filter_data.map((category, index) => {
         return (
           <button
-            className="btn btn-outline-primary btn-large mx-2"
+            className="btn btn-outline-primary btn-large m-2"
             key={index}
             onClick={() => filter_menu_data(category)}
           >

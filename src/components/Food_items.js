@@ -43,7 +43,7 @@ function Food_items() {
             </div>
             {data.map((value) => {
               const { id, image, name, category, price, description } = value;
-              console.log(image);
+              // console.log(image);
               return (
                 <div className="card col-lg-3 my-4" key={id}>
                   <img
