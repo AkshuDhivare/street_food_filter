@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card{
+  width: 17rem;
+}
+.card:hover{
+  box-shadow: 0 0 10px #000;
+}
+.container-fluid{
+  background-color: #fff
+}
