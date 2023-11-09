@@ -4,7 +4,7 @@ const Menu = [
     image: "../images/mumbai/vadapaav.jpg",
     name: "Vada Paav",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -12,7 +12,7 @@ const Menu = [
     image: "../images/mumbai/samosapaav.jpg",
     name: "Samosa Paav",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -20,7 +20,7 @@ const Menu = [
     image: "../images/mumbai/pani_puri.jpg",
     name: "Pani Puri",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -28,7 +28,7 @@ const Menu = [
     image: "../images/mumbai/bhel_puri.jpeg",
     name: "Bhel",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -36,7 +36,7 @@ const Menu = [
     image: "../images/mumbai/sandwich.jpg",
     name: "Sandwiz",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -44,7 +44,7 @@ const Menu = [
     image: "../images/mumbai/Dabeli.jpg",
     name: "Dabeli",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -52,7 +52,7 @@ const Menu = [
     image: "../images/mumbai/Misal.jpg",
     name: "Misal Paav",
     category: "MUMBAI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -60,7 +60,7 @@ const Menu = [
     image: "../images/gujrat/dhokla.jpeg",
     name: "Dhokla",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -68,7 +68,7 @@ const Menu = [
     image: "../images/gujrat/rava_dhokla.jpg",
     name: "Rava Dhokla",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -76,7 +76,7 @@ const Menu = [
     image: "../images/gujrat/shev_khamni.jpeg",
     name: "Shev Khamani",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -84,7 +84,7 @@ const Menu = [
     image: "../images/gujrat/kachori.jpeg",
     name: "Kachori",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -92,7 +92,7 @@ const Menu = [
     image: "../images/gujrat/paav_bhaji.jpg",
     name: "Paav Bhaji",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -100,7 +100,7 @@ const Menu = [
     image: "../images/gujrat/kanda_bhaji.jpeg",
     name: "Kanda Bhaji",
     category: "GUJRAT",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -108,7 +108,7 @@ const Menu = [
     image: "../images/delhi/Chole.jpg",
     name: "Chole Bhature",
     category: "DELHI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -116,7 +116,7 @@ const Menu = [
     image: "../images/delhi/Chaat.jpeg",
     name: "Chaat",
     category: "DELHI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -124,7 +124,7 @@ const Menu = [
     image: "../images/delhi/dahi_bhalla.jpg",
     name: "Dahi Bhalla",
     category: "DELHI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -132,7 +132,7 @@ const Menu = [
     image: "../images/delhi/kulcha.jpg",
     name: "Kulcha",
     category: "DELHI",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -140,7 +140,7 @@ const Menu = [
     image: "../images/banaras/aloo_kachori.jpg",
     name: "Aloo Kachori",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -148,7 +148,7 @@ const Menu = [
     image: "../images/banaras/banarasi_paan.jpg",
     name: "Banarasi Paan",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -156,7 +156,7 @@ const Menu = [
     image: "../images/banaras/bhati_choka.jpg",
     name: "Bhati Choka",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -164,7 +164,7 @@ const Menu = [
     image: "../images/banaras/chena_dahi_vada.jpg",
     name: "Chena Dahi Vada",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -172,7 +172,7 @@ const Menu = [
     image: "../images/banaras/dahi_golgappa.jpg",
     name: "Dahi Golgappa",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -180,7 +180,7 @@ const Menu = [
     image: "../images/banaras/Kachori-Sabzi.jpg",
     name: "Kachori Sabzi",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -188,7 +188,7 @@ const Menu = [
     image: "../images/banaras/Launglata.jpg",
     name: "Launglata",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -196,7 +196,7 @@ const Menu = [
     image: "../images/banaras/rabri_jalebi.jpg",
     name: "Rabri Jalebi",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -204,7 +204,7 @@ const Menu = [
     image: "../images/banaras/tamatar_chaat.jpg",
     name: "Tamatar Chaat",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -212,7 +212,7 @@ const Menu = [
     image: "../images/banaras/thandai.jpg",
     name: "Thandai",
     category: "BANARAS",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -220,7 +220,7 @@ const Menu = [
     image: "../images/south/idli.jpeg",
     name: "Idli",
     category: "SOUTH INDIAN",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -228,7 +228,7 @@ const Menu = [
     image: "../images/south/dhosa.jpeg",
     name: "Dosa",
     category: "SOUTH INDIAN",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -236,7 +236,7 @@ const Menu = [
     image: "../images/south/maisur_dosa.jpeg",
     name: "Maisur Dosa",
     category: "SOUTH INDIAN",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -244,7 +244,7 @@ const Menu = [
     image: "../images/south/lemon_rice.jpeg",
     name: "Lemon Rice",
     category: "SOUTH INDIAN",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -252,7 +252,7 @@ const Menu = [
     image: "../images/south/uttapam.jpeg",
     name: "Uttapam",
     category: "SOUTH INDIAN",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -260,7 +260,7 @@ const Menu = [
     image: "../images/nepal/Momos.jpg",
     name: "Momos",
     category: "NEPAL",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -268,7 +268,7 @@ const Menu = [
     image: "../images/nepal/Lakhamari.jpg",
     name: "Lakhamari",
     category: "NEPAL",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -276,7 +276,7 @@ const Menu = [
     image: "../images/nepal/Choila.jpg",
     name: "Chaatmari",
     category: "NEPAL",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
   {
@@ -284,7 +284,7 @@ const Menu = [
     image: "../images/nepal/Chatamari.jpg",
     name: "Choila",
     category: "NEPAL",
-    price: "1000 rs",
+    price: "100 rs",
     description: "Lorem iosum dolor sit amet consectetur adir",
   },
 ];
